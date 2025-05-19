@@ -62,7 +62,10 @@ Combining pixel charm, emo sparkle, and smooth animations, it lets visitors step
 This project is made with ✨ for personal use.
 If you're inspired, spread the vibe — just don’t forget to give credit 💾
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=F7F3F7&vCenter=true&width=435&lines=🖤+Welcome+to+Naxxa's+Dark+World+🖤;Click+around...+don't+be+shy."></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=8A2BE2&vCenter=true&width=500&lines=Welcome+to+Naxxa's+Dark+World;Click+around...+don't+be+shy.">
+</p>
+
 
 > 🌐 “In a digital world full of noise, Naxxa echoes with elegance.”
 
